@@ -3,9 +3,9 @@ var bombImage = '<img src="images/bomb.png">';
 var flagImage = '<img src="images/flag.png">';
 var wrongBombImage = '<img src="images/wrong-bomb.png">'
 var sizeLookup = {
-  '9': {totalBombs: 10, tableWidth: '245px'},
-  '16': {totalBombs: 40, tableWidth: '420px'},
-  '30': {totalBombs: 160, tableWidth: '794px'}
+  '5': {totalBombs: 10, tableWidth: '245px'},
+  '30': {totalBombs: 40, tableWidth: '420px'},
+  '100': {totalBombs: 160, tableWidth: '794px'}
 };
 var colors = [
   '',
